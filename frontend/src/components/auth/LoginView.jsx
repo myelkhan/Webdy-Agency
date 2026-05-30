@@ -140,10 +140,6 @@ const LoginView = ({ onLoginSuccess, navigateTo }) => {
                 Create Account
               </button>
             </p>
-
-            <div className="mt-4 p-3 rounded-xl bg-purple-50 text-[10px] text-brand-purple font-semibold text-center">
-              💡 Demo Admin: <span className="font-bold select-all">admin@webdy.com</span> | Password: <span className="font-bold select-all">AdminWebdy2026!</span>
-            </div>
           </GlassCard>
         </motion.div>
       </div>
